@@ -1,14 +1,18 @@
 # Bundle 1
+
 Exerscise 1
+```bash
 git init
 git branch -b master main
-git add . , git commit -m"adding changes"
+git add . 
+git commit -m "adding changes"
 git remote add origin https://github.com/13XAVI/TheGymSolution.git
 git push origin main
 git checkout -b dev
 git checkout -b test
 git checkout dev
 git branch -d test
+```
 
 Exercise2
 git stash save "Saving home.html to remote"
@@ -23,15 +27,18 @@ git reset --hard HEAD
 # Bundle 2
 
 Exercises 1
+
+```bash
 git checkout ft/bundle-2
 Add Some Change in service.html
 git add.
 git commit -m "Add Some change in service.html"
 git pull -u origin main
-Request the reviewer Kevine
-merge the request
+```
+
 
 Exercise 2
+```bash
 git checkout main
 git pull 
 git checkout -b ft/service-redesign
@@ -50,3 +57,5 @@ git merge main
 git add .
 git commit
 git push
+```
+
