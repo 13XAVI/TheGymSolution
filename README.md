@@ -23,7 +23,10 @@ git stash apply 'stash@{1}'
 git stash pop 'stash@{0}'
 git reset --hard HEAD
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> main
 # Bundle 2
 
 Exercises 1
@@ -62,4 +65,3 @@ git push
 
 Exercises 1
 ```bash
-
