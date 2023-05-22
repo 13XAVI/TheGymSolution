@@ -90,4 +90,13 @@ git add .,git commit ,git push
 
 Exercises 1
 ```bash
+git checkout main
+git remote add git-copy https://github.com/13XAVI/Git-Exercise-Clone.git
+git add .
+git commit 
+git push origin
+git push git-copy
+```
+Exercises 2
+```bash
 
