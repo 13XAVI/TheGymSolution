@@ -1,9 +1,11 @@
 # Bundle 1
+
 Exerscise 1
 ```bash
 git init
 git branch -b master main
-git add . , git commit -m"adding changes"
+git add . 
+git commit -m "adding changes"
 git remote add origin https://github.com/13XAVI/TheGymSolution.git
 git push origin main
 git checkout -b dev
@@ -57,7 +59,6 @@ git add .
 git commit
 git push
 ```
-
 # Bundle 3
 
 Exercises 1
@@ -75,3 +76,4 @@ git add ,git commit ,git push
 git git revert a5eff46291bcd9b2fe07021d48f2fdb75771928e
 git push
 ```
+
