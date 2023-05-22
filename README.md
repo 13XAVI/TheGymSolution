@@ -34,8 +34,7 @@ Add Some Change in service.html
 git add.
 git commit -m "Add Some change in service.html"
 git pull -u origin main
-Request the reviewer Kevine
-merge the request
+git merge the request
 ```
 
 Exercise 2
