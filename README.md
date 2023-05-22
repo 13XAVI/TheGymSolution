@@ -62,3 +62,16 @@ git push
 
 Exercises 1
 ```bash
+git checkout -b ft/team-page
+git add .
+git commit " New changes"
+git checkout main
+git checkout -b ft/contact-page
+git checkout ft/team-page
+git git cherry-pick git cherry-pick 529edf3ee91d514de0f921299509787cb776fea5
+git add . ,git commit ,git push
+git checkout -b ft/faq-page
+git add ,git commit ,git push
+git git revert a5eff46291bcd9b2fe07021d48f2fdb75771928e
+git push
+```
