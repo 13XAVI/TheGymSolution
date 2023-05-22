@@ -1,9 +1,11 @@
 # Bundle 1
+
 Exerscise 1
 ```bash
 git init
 git branch -b master main
-git add . , git commit -m"adding changes"
+git add . 
+git commit -m "adding changes"
 git remote add origin https://github.com/13XAVI/TheGymSolution.git
 git push origin main
 git checkout -b dev
@@ -32,8 +34,7 @@ Add Some Change in service.html
 git add.
 git commit -m "Add Some change in service.html"
 git pull -u origin main
-Request the reviewer Kevine
-merge the request
+git merge the request
 ```
 
 Exercise 2
