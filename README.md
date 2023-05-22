@@ -75,4 +75,19 @@ git add ,git commit ,git push
 git git revert a5eff46291bcd9b2fe07021d48f2fdb75771928e
 git push
 ```
+Exercises 2
+```bash
+git checkout -b ft/home-page-redesign
+git checkout main
+git add .
+git commit -m "Created New Branch"
+git push
+git checkout ft/home-page-redesign
+git rebase main
+git add .,git commit ,git push
+```
+# Bundle 4
+
+Exercises 1
+```bash
 
