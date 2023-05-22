@@ -75,7 +75,7 @@ git add ,git commit ,git push
 git git revert a5eff46291bcd9b2fe07021d48f2fdb75771928e
 git push
 ```
-Exercises 1
+Exercises 2
 ```bash
 git checkout -b ft/home-page-redesign
 git checkout main
