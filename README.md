@@ -115,3 +115,8 @@ git push origin ft/squashing
 
 Exercises 1
 ```bash
+deplpoyment Link: https://13xavi.github.io/TheGymSolution/
+```
+Exercise 2
+```bash
+
