@@ -99,4 +99,19 @@ git push git-copy
 ```
 Exercises 2
 ```bash
+git checkout ft/footer
+git add footer.html
+git commit -m "Add new file"
+git add other changes
+git commit -m "latest new file"
+git push origin ft/footer
+git checkout main
+git checkout -b ft/squashing
+git merge --squash ft/footer
+git commit -m "footer changes squashing"
+git push origin ft/squashing
+```
+# Bundle 4
 
+Exercises 1
+```bash
