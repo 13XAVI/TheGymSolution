@@ -111,7 +111,7 @@ git merge --squash ft/footer
 git commit -m "footer changes squashing"
 git push origin ft/squashing
 ```
-# Bundle 4
+# Bundle 5
 
 Exercises 1
 ```bash
