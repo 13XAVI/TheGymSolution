@@ -119,4 +119,14 @@ deplpoyment Link: https://13xavi.github.io/TheGymSolution/
 ```
 Exercise 2
 ```bash
+"Fork Repository: https://github.com/octangroup/git-cafe-exercise
+Change index.html"
+git add.
+git commit -m "New changes on index.html"
+git push
+```
+# Bundle 6
+
+Exercises 1
+```bash
 
